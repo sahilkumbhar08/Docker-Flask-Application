@@ -3,7 +3,6 @@ This is a simple web application built using Flask and Redis, containerized usin
 Each time you visit the page, it increments a Redis counter and displays the total number of visits.
 
 🖼️ Screenshot
-<img width="940" height="725" alt="image" src="https://github.com/user-attachments/assets/33460d2c-a831-40a4-8927-d8610d26b5bf" />
 
 
 📦 Docker Image
@@ -23,9 +22,6 @@ docker-compose up --build
 
 Visit the appOpen your browser and go to:
 http://localhost:5000
-
-<img width="258" height="105" alt="Screenshot 2025-08-05 232959" src="https://github.com/user-attachments/assets/27879941-37df-4a36-a69a-a51664cd9b7b" />
-
 
 
 
