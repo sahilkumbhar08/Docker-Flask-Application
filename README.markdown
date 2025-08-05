@@ -8,7 +8,8 @@ Each time you visit the page, it increments a Redis counter and displays the tot
 
 ## 🖼️ Screenshot
 
-![Visitor Counter UI](68ab2ee5-24c0-41f8-a22e-5a6f06e1160c.png)
+<img width="940" height="725" alt="image" src="https://github.com/user-attachments/assets/b32ece36-3ae8-48de-a201-9c4e881f27a8" />
+
 
 ---
 
@@ -66,6 +67,9 @@ The Docker image is available on Docker Hub:
    ```
    http://localhost:5000
    ```
+
+   <img width="258" height="105" alt="Screenshot 2025-08-05 232959" src="https://github.com/user-attachments/assets/51a9581f-7925-4798-b021-e7b3f7e426e8" />
+
 
 ### ⚙️ Environment Variables
 
